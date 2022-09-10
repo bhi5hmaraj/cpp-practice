@@ -1,7 +1,6 @@
 // https://codeforces.com/gym/397599/problem/C
 
 #include <iostream>
-#include <unordered_map>
 using namespace std;
 
 #define MAX_N 5 * 100000
